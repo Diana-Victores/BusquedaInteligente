@@ -16,5 +16,10 @@ namespace Capa_Vista
         {
             InitializeComponent();
         }
+
+        private void tbpEditar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
