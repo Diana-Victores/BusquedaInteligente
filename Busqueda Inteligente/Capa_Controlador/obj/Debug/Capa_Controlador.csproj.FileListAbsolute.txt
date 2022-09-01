@@ -1,0 +1,9 @@
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\bin\Debug\Capa_Controlador.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\bin\Debug\Capa_Controlador.pdb
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\obj\Debug\Capa_Controlador.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\obj\Debug\Capa_Controlador.pdb
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Controlador\obj\Debug\Capa_Controlador.csproj.CopyComplete

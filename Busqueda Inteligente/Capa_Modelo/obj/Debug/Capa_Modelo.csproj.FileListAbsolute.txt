@@ -1,0 +1,6 @@
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

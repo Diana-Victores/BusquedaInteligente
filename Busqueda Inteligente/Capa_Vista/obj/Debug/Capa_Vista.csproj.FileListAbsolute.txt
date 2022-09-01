@@ -1,0 +1,11 @@
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Vista.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.Busqueda_Smart.resources
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
