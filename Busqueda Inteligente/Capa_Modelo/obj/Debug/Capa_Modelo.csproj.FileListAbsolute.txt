@@ -4,3 +4,9 @@ C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Model
 C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
 C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.dll
 C:\Users\Developer\Desktop\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

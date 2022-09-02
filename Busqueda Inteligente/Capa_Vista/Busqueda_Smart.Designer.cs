@@ -34,10 +34,7 @@ namespace Capa_Vista
             this.panel12 = new System.Windows.Forms.Panel();
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.label18 = new System.Windows.Forms.Label();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
             this.panel13 = new System.Windows.Forms.Panel();
-            this.button16 = new System.Windows.Forms.Button();
             this.panel14 = new System.Windows.Forms.Panel();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.radioButton4 = new System.Windows.Forms.RadioButton();
@@ -47,7 +44,6 @@ namespace Capa_Vista
             this.label20 = new System.Windows.Forms.Label();
             this.panel15 = new System.Windows.Forms.Panel();
             this.panel16 = new System.Windows.Forms.Panel();
-            this.button18 = new System.Windows.Forms.Button();
             this.textBox9 = new System.Windows.Forms.TextBox();
             this.comboBox12 = new System.Windows.Forms.ComboBox();
             this.comboBox13 = new System.Windows.Forms.ComboBox();
@@ -56,7 +52,6 @@ namespace Capa_Vista
             this.label23 = new System.Windows.Forms.Label();
             this.checkBox3 = new System.Windows.Forms.CheckBox();
             this.panel17 = new System.Windows.Forms.Panel();
-            this.button20 = new System.Windows.Forms.Button();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.comboBox14 = new System.Windows.Forms.ComboBox();
             this.comboBox15 = new System.Windows.Forms.ComboBox();
@@ -64,7 +59,6 @@ namespace Capa_Vista
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.panel18 = new System.Windows.Forms.Panel();
-            this.button22 = new System.Windows.Forms.Button();
             this.panel19 = new System.Windows.Forms.Panel();
             this.label27 = new System.Windows.Forms.Label();
             this.comboBox16 = new System.Windows.Forms.ComboBox();
@@ -80,7 +74,6 @@ namespace Capa_Vista
             this.panel9 = new System.Windows.Forms.Panel();
             this.panel10 = new System.Windows.Forms.Panel();
             this.panel11 = new System.Windows.Forms.Panel();
-            this.button13 = new System.Windows.Forms.Button();
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.label16 = new System.Windows.Forms.Label();
             this.comboBox9 = new System.Windows.Forms.ComboBox();
@@ -89,11 +82,7 @@ namespace Capa_Vista
             this.panel1 = new System.Windows.Forms.Panel();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.label15 = new System.Windows.Forms.Label();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
             this.panel8 = new System.Windows.Forms.Panel();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
@@ -103,8 +92,6 @@ namespace Capa_Vista
             this.label14 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel7 = new System.Windows.Forms.Panel();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.comboBox6 = new System.Windows.Forms.ComboBox();
             this.comboBox5 = new System.Windows.Forms.ComboBox();
@@ -113,8 +100,6 @@ namespace Capa_Vista
             this.label9 = new System.Windows.Forms.Label();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
@@ -122,11 +107,8 @@ namespace Capa_Vista
             this.label7 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.Panel2 = new System.Windows.Forms.Panel();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             this.panel6 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
@@ -136,15 +118,40 @@ namespace Capa_Vista
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.tbpBE = new System.Windows.Forms.TabPage();
-            this.button24 = new System.Windows.Forms.Button();
-            this.button23 = new System.Windows.Forms.Button();
-            this.button21 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
+            this.iconButton1 = new FontAwesome.Sharp.IconButton();
+            this.iconButton2 = new FontAwesome.Sharp.IconButton();
+            this.iconButton3 = new FontAwesome.Sharp.IconButton();
+            this.iconButton4 = new FontAwesome.Sharp.IconButton();
+            this.iconButton5 = new FontAwesome.Sharp.IconButton();
+            this.iconButton6 = new FontAwesome.Sharp.IconButton();
+            this.iconButton7 = new FontAwesome.Sharp.IconButton();
+            this.iconButton8 = new FontAwesome.Sharp.IconButton();
+            this.iconButton9 = new FontAwesome.Sharp.IconButton();
+            this.iconButton10 = new FontAwesome.Sharp.IconButton();
+            this.iconButton11 = new FontAwesome.Sharp.IconButton();
+            this.iconButton12 = new FontAwesome.Sharp.IconButton();
+            this.iconButton13 = new FontAwesome.Sharp.IconButton();
+            this.iconButton14 = new FontAwesome.Sharp.IconButton();
+            this.iconButton15 = new FontAwesome.Sharp.IconButton();
+            this.iconButton16 = new FontAwesome.Sharp.IconButton();
+            this.iconButton17 = new FontAwesome.Sharp.IconButton();
+            this.iconButton18 = new FontAwesome.Sharp.IconButton();
+            this.iconButton19 = new FontAwesome.Sharp.IconButton();
+            this.iconButton20 = new FontAwesome.Sharp.IconButton();
+            this.iconButton21 = new FontAwesome.Sharp.IconButton();
+            this.iconButton22 = new FontAwesome.Sharp.IconButton();
+            this.iconButton23 = new FontAwesome.Sharp.IconButton();
+            this.iconButton24 = new FontAwesome.Sharp.IconButton();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.label32 = new System.Windows.Forms.Label();
+            this.iconButton25 = new FontAwesome.Sharp.IconButton();
+            this.iconButton26 = new FontAwesome.Sharp.IconButton();
+            this.iconButton27 = new FontAwesome.Sharp.IconButton();
+            this.iconButton28 = new FontAwesome.Sharp.IconButton();
             this.tbcBusqueda.SuspendLayout();
             this.tbpCreacion.SuspendLayout();
             this.panel12.SuspendLayout();
@@ -165,6 +172,8 @@ namespace Capa_Vista
             this.panel7.SuspendLayout();
             this.panel4.SuspendLayout();
             this.Panel2.SuspendLayout();
+            this.tbpBE.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // tbcBusqueda
@@ -192,10 +201,10 @@ namespace Capa_Vista
             // 
             // panel12
             // 
+            this.panel12.Controls.Add(this.iconButton11);
+            this.panel12.Controls.Add(this.iconButton6);
             this.panel12.Controls.Add(this.textBox8);
             this.panel12.Controls.Add(this.label18);
-            this.panel12.Controls.Add(this.button14);
-            this.panel12.Controls.Add(this.button15);
             this.panel12.Controls.Add(this.panel13);
             this.panel12.Controls.Add(this.panel15);
             this.panel12.Controls.Add(this.panel18);
@@ -220,28 +229,10 @@ namespace Capa_Vista
             this.label18.TabIndex = 6;
             this.label18.Text = "Cadena generar";
             // 
-            // button14
-            // 
-            this.button14.Location = new System.Drawing.Point(857, 498);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(63, 55);
-            this.button14.TabIndex = 5;
-            this.button14.Text = "Borrar";
-            this.button14.UseVisualStyleBackColor = true;
-            // 
-            // button15
-            // 
-            this.button15.Location = new System.Drawing.Point(765, 498);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(63, 55);
-            this.button15.TabIndex = 4;
-            this.button15.Text = "Crear";
-            this.button15.UseVisualStyleBackColor = true;
-            // 
             // panel13
             // 
-            this.panel13.Controls.Add(this.button17);
-            this.panel13.Controls.Add(this.button16);
+            this.panel13.Controls.Add(this.iconButton10);
+            this.panel13.Controls.Add(this.iconButton5);
             this.panel13.Controls.Add(this.panel14);
             this.panel13.Controls.Add(this.comboBox10);
             this.panel13.Controls.Add(this.comboBox11);
@@ -251,15 +242,6 @@ namespace Capa_Vista
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(699, 162);
             this.panel13.TabIndex = 3;
-            // 
-            // button16
-            // 
-            this.button16.Location = new System.Drawing.Point(617, 18);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(63, 46);
-            this.button16.TabIndex = 26;
-            this.button16.Text = "Cancelar";
-            this.button16.UseVisualStyleBackColor = true;
             // 
             // panel14
             // 
@@ -338,8 +320,8 @@ namespace Capa_Vista
             // 
             // panel16
             // 
-            this.panel16.Controls.Add(this.button19);
-            this.panel16.Controls.Add(this.button18);
+            this.panel16.Controls.Add(this.iconButton9);
+            this.panel16.Controls.Add(this.iconButton4);
             this.panel16.Controls.Add(this.textBox9);
             this.panel16.Controls.Add(this.comboBox12);
             this.panel16.Controls.Add(this.comboBox13);
@@ -350,15 +332,6 @@ namespace Capa_Vista
             this.panel16.Name = "panel16";
             this.panel16.Size = new System.Drawing.Size(479, 142);
             this.panel16.TabIndex = 4;
-            // 
-            // button18
-            // 
-            this.button18.Location = new System.Drawing.Point(391, 15);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(63, 46);
-            this.button18.TabIndex = 25;
-            this.button18.Text = "Cancelar";
-            this.button18.UseVisualStyleBackColor = true;
             // 
             // textBox9
             // 
@@ -422,8 +395,8 @@ namespace Capa_Vista
             // 
             // panel17
             // 
-            this.panel17.Controls.Add(this.button21);
-            this.panel17.Controls.Add(this.button20);
+            this.panel17.Controls.Add(this.iconButton8);
+            this.panel17.Controls.Add(this.iconButton3);
             this.panel17.Controls.Add(this.textBox10);
             this.panel17.Controls.Add(this.comboBox14);
             this.panel17.Controls.Add(this.comboBox15);
@@ -434,15 +407,6 @@ namespace Capa_Vista
             this.panel17.Name = "panel17";
             this.panel17.Size = new System.Drawing.Size(510, 142);
             this.panel17.TabIndex = 2;
-            // 
-            // button20
-            // 
-            this.button20.Location = new System.Drawing.Point(422, 15);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(63, 46);
-            this.button20.TabIndex = 17;
-            this.button20.Text = "Cancelar";
-            this.button20.UseVisualStyleBackColor = true;
             // 
             // textBox10
             // 
@@ -496,9 +460,9 @@ namespace Capa_Vista
             // 
             // panel18
             // 
-            this.panel18.Controls.Add(this.button23);
-            this.panel18.Controls.Add(this.button24);
-            this.panel18.Controls.Add(this.button22);
+            this.panel18.Controls.Add(this.iconButton7);
+            this.panel18.Controls.Add(this.iconButton2);
+            this.panel18.Controls.Add(this.iconButton1);
             this.panel18.Controls.Add(this.panel19);
             this.panel18.Controls.Add(this.label27);
             this.panel18.Controls.Add(this.comboBox16);
@@ -514,15 +478,6 @@ namespace Capa_Vista
             this.panel18.Name = "panel18";
             this.panel18.Size = new System.Drawing.Size(1075, 209);
             this.panel18.TabIndex = 0;
-            // 
-            // button22
-            // 
-            this.button22.Location = new System.Drawing.Point(943, 130);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(75, 58);
-            this.button22.TabIndex = 15;
-            this.button22.Text = "Cancelar";
-            this.button22.UseVisualStyleBackColor = true;
             // 
             // panel19
             // 
@@ -646,7 +601,7 @@ namespace Capa_Vista
             // 
             // panel11
             // 
-            this.panel11.Controls.Add(this.button13);
+            this.panel11.Controls.Add(this.iconButton12);
             this.panel11.Controls.Add(this.textBox7);
             this.panel11.Controls.Add(this.label16);
             this.panel11.Controls.Add(this.comboBox9);
@@ -655,15 +610,6 @@ namespace Capa_Vista
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(1035, 154);
             this.panel11.TabIndex = 0;
-            // 
-            // button13
-            // 
-            this.button13.Location = new System.Drawing.Point(767, 33);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(104, 68);
-            this.button13.TabIndex = 4;
-            this.button13.Text = "Buscar";
-            this.button13.UseVisualStyleBackColor = true;
             // 
             // textBox7
             // 
@@ -712,14 +658,14 @@ namespace Capa_Vista
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.iconButton24);
+            this.panel1.Controls.Add(this.iconButton23);
+            this.panel1.Controls.Add(this.iconButton13);
             this.panel1.Controls.Add(this.textBox6);
             this.panel1.Controls.Add(this.label15);
-            this.panel1.Controls.Add(this.button12);
-            this.panel1.Controls.Add(this.button11);
             this.panel1.Controls.Add(this.panel5);
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Controls.Add(this.Panel2);
-            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(6, 20);
@@ -743,28 +689,10 @@ namespace Capa_Vista
             this.label15.TabIndex = 11;
             this.label15.Text = "Cadena generar";
             // 
-            // button12
-            // 
-            this.button12.Location = new System.Drawing.Point(881, 565);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(63, 55);
-            this.button12.TabIndex = 10;
-            this.button12.Text = "Borrar";
-            this.button12.UseVisualStyleBackColor = true;
-            // 
-            // button11
-            // 
-            this.button11.Location = new System.Drawing.Point(763, 565);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(63, 55);
-            this.button11.TabIndex = 9;
-            this.button11.Text = "Editar";
-            this.button11.UseVisualStyleBackColor = true;
-            // 
             // panel5
             // 
-            this.panel5.Controls.Add(this.button10);
-            this.panel5.Controls.Add(this.button9);
+            this.panel5.Controls.Add(this.iconButton22);
+            this.panel5.Controls.Add(this.iconButton21);
             this.panel5.Controls.Add(this.panel8);
             this.panel5.Controls.Add(this.comboBox8);
             this.panel5.Controls.Add(this.comboBox7);
@@ -774,26 +702,6 @@ namespace Capa_Vista
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(680, 162);
             this.panel5.TabIndex = 8;
-            // 
-            // button10
-            // 
-            this.button10.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button10.Location = new System.Drawing.Point(493, 22);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(83, 73);
-            this.button10.TabIndex = 27;
-            this.button10.Text = "Agregar";
-            this.button10.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button10.UseVisualStyleBackColor = true;
-            // 
-            // button9
-            // 
-            this.button9.Location = new System.Drawing.Point(594, 22);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(63, 46);
-            this.button9.TabIndex = 26;
-            this.button9.Text = "Cancelar";
-            this.button9.UseVisualStyleBackColor = true;
             // 
             // panel8
             // 
@@ -872,8 +780,8 @@ namespace Capa_Vista
             // 
             // panel7
             // 
-            this.panel7.Controls.Add(this.button6);
-            this.panel7.Controls.Add(this.button7);
+            this.panel7.Controls.Add(this.iconButton20);
+            this.panel7.Controls.Add(this.iconButton18);
             this.panel7.Controls.Add(this.textBox3);
             this.panel7.Controls.Add(this.comboBox6);
             this.panel7.Controls.Add(this.comboBox5);
@@ -884,26 +792,6 @@ namespace Capa_Vista
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(483, 142);
             this.panel7.TabIndex = 4;
-            // 
-            // button6
-            // 
-            this.button6.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button6.Location = new System.Drawing.Point(287, 8);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(83, 73);
-            this.button6.TabIndex = 26;
-            this.button6.Text = "Agregar";
-            this.button6.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            this.button7.Location = new System.Drawing.Point(376, 15);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(63, 46);
-            this.button7.TabIndex = 25;
-            this.button7.Text = "Cancelar";
-            this.button7.UseVisualStyleBackColor = true;
             // 
             // textBox3
             // 
@@ -967,8 +855,8 @@ namespace Capa_Vista
             // 
             // panel4
             // 
-            this.panel4.Controls.Add(this.button8);
-            this.panel4.Controls.Add(this.button5);
+            this.panel4.Controls.Add(this.iconButton19);
+            this.panel4.Controls.Add(this.iconButton17);
             this.panel4.Controls.Add(this.textBox5);
             this.panel4.Controls.Add(this.comboBox4);
             this.panel4.Controls.Add(this.comboBox3);
@@ -979,26 +867,6 @@ namespace Capa_Vista
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(496, 142);
             this.panel4.TabIndex = 2;
-            // 
-            // button8
-            // 
-            this.button8.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button8.Location = new System.Drawing.Point(286, 13);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(83, 73);
-            this.button8.TabIndex = 18;
-            this.button8.Text = "Agregar";
-            this.button8.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button8.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(396, 15);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(63, 46);
-            this.button5.TabIndex = 17;
-            this.button5.Text = "Cancelar";
-            this.button5.UseVisualStyleBackColor = true;
             // 
             // textBox5
             // 
@@ -1052,11 +920,11 @@ namespace Capa_Vista
             // 
             // Panel2
             // 
-            this.Panel2.Controls.Add(this.button2);
-            this.Panel2.Controls.Add(this.button3);
+            this.Panel2.Controls.Add(this.iconButton16);
+            this.Panel2.Controls.Add(this.iconButton15);
+            this.Panel2.Controls.Add(this.iconButton14);
             this.Panel2.Controls.Add(this.panel6);
             this.Panel2.Controls.Add(this.label5);
-            this.Panel2.Controls.Add(this.button4);
             this.Panel2.Controls.Add(this.comboBox2);
             this.Panel2.Controls.Add(this.comboBox1);
             this.Panel2.Controls.Add(this.checkBox1);
@@ -1070,26 +938,6 @@ namespace Capa_Vista
             this.Panel2.Name = "Panel2";
             this.Panel2.Size = new System.Drawing.Size(1049, 209);
             this.Panel2.TabIndex = 6;
-            // 
-            // button2
-            // 
-            this.button2.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button2.Location = new System.Drawing.Point(890, 15);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(83, 73);
-            this.button2.TabIndex = 16;
-            this.button2.Text = "Agregar";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(898, 130);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 58);
-            this.button3.TabIndex = 15;
-            this.button3.Text = "Cancelar";
-            this.button3.UseVisualStyleBackColor = true;
             // 
             // panel6
             // 
@@ -1106,17 +954,6 @@ namespace Capa_Vista
             this.label5.Size = new System.Drawing.Size(118, 13);
             this.label5.TabIndex = 13;
             this.label5.Text = "Campos Seleccionados";
-            // 
-            // button4
-            // 
-            this.button4.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button4.Location = new System.Drawing.Point(437, 15);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(83, 73);
-            this.button4.TabIndex = 11;
-            this.button4.Text = "Agregar";
-            this.button4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button4.UseVisualStyleBackColor = true;
             // 
             // comboBox2
             // 
@@ -1194,15 +1031,6 @@ namespace Capa_Vista
             this.label6.TabIndex = 0;
             this.label6.Text = "Nombre Consulta";
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(808, 10);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(81, 57);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Buscar";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(323, 29);
@@ -1221,6 +1049,13 @@ namespace Capa_Vista
             // 
             // tbpBE
             // 
+            this.tbpBE.Controls.Add(this.iconButton28);
+            this.tbpBE.Controls.Add(this.iconButton27);
+            this.tbpBE.Controls.Add(this.iconButton26);
+            this.tbpBE.Controls.Add(this.iconButton25);
+            this.tbpBE.Controls.Add(this.label32);
+            this.tbpBE.Controls.Add(this.dataGridView1);
+            this.tbpBE.Controls.Add(this.textBox13);
             this.tbpBE.Location = new System.Drawing.Point(4, 22);
             this.tbpBE.Name = "tbpBE";
             this.tbpBE.Padding = new System.Windows.Forms.Padding(3);
@@ -1229,66 +1064,435 @@ namespace Capa_Vista
             this.tbpBE.Text = "Buscar/Eliminar";
             this.tbpBE.UseVisualStyleBackColor = true;
             // 
-            // button24
+            // iconButton1
             // 
-            this.button24.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button24.Location = new System.Drawing.Point(426, 46);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(83, 73);
-            this.button24.TabIndex = 16;
-            this.button24.Text = "Agregar";
-            this.button24.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button24.UseVisualStyleBackColor = true;
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton1.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton1.IconSize = 60;
+            this.iconButton1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton1.Location = new System.Drawing.Point(403, 51);
+            this.iconButton1.Name = "iconButton1";
+            this.iconButton1.Size = new System.Drawing.Size(64, 68);
+            this.iconButton1.TabIndex = 18;
+            this.iconButton1.Text = "Agregar";
+            this.iconButton1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton1.UseVisualStyleBackColor = true;
             // 
-            // button23
+            // iconButton2
             // 
-            this.button23.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button23.Location = new System.Drawing.Point(926, 25);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(83, 73);
-            this.button23.TabIndex = 17;
-            this.button23.Text = "Agregar";
-            this.button23.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button23.UseVisualStyleBackColor = true;
+            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton2.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton2.IconSize = 60;
+            this.iconButton2.Location = new System.Drawing.Point(943, 39);
+            this.iconButton2.Name = "iconButton2";
+            this.iconButton2.Size = new System.Drawing.Size(64, 68);
+            this.iconButton2.TabIndex = 19;
+            this.iconButton2.Text = "Agregar";
+            this.iconButton2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton2.UseVisualStyleBackColor = true;
             // 
-            // button21
+            // iconButton3
             // 
-            this.button21.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button21.Location = new System.Drawing.Point(292, 15);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(83, 73);
-            this.button21.TabIndex = 18;
-            this.button21.Text = "Agregar";
-            this.button21.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button21.UseVisualStyleBackColor = true;
+            this.iconButton3.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton3.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton3.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton3.IconSize = 60;
+            this.iconButton3.Location = new System.Drawing.Point(283, 22);
+            this.iconButton3.Name = "iconButton3";
+            this.iconButton3.Size = new System.Drawing.Size(64, 68);
+            this.iconButton3.TabIndex = 18;
+            this.iconButton3.Text = "Agregar";
+            this.iconButton3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton3.UseVisualStyleBackColor = true;
             // 
-            // button19
+            // iconButton4
             // 
-            this.button19.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button19.Location = new System.Drawing.Point(292, 10);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(83, 73);
-            this.button19.TabIndex = 26;
-            this.button19.Text = "Agregar";
-            this.button19.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button19.UseVisualStyleBackColor = true;
+            this.iconButton4.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton4.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton4.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton4.IconSize = 50;
+            this.iconButton4.Location = new System.Drawing.Point(279, 25);
+            this.iconButton4.Name = "iconButton4";
+            this.iconButton4.Size = new System.Drawing.Size(64, 68);
+            this.iconButton4.TabIndex = 26;
+            this.iconButton4.Text = "Agregar";
+            this.iconButton4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton4.UseVisualStyleBackColor = true;
             // 
-            // button17
+            // iconButton5
             // 
-            this.button17.Image = global::Capa_Vista.Properties.Resources.R;
-            this.button17.Location = new System.Drawing.Point(517, 13);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(83, 73);
-            this.button17.TabIndex = 27;
-            this.button17.Text = "Agregar";
-            this.button17.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button17.UseVisualStyleBackColor = true;
+            this.iconButton5.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton5.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton5.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton5.IconSize = 60;
+            this.iconButton5.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.iconButton5.Location = new System.Drawing.Point(500, 25);
+            this.iconButton5.Name = "iconButton5";
+            this.iconButton5.Size = new System.Drawing.Size(64, 68);
+            this.iconButton5.TabIndex = 27;
+            this.iconButton5.Text = "Agregar";
+            this.iconButton5.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton5.UseVisualStyleBackColor = true;
+            // 
+            // iconButton6
+            // 
+            this.iconButton6.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton6.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton6.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton6.IconSize = 50;
+            this.iconButton6.Location = new System.Drawing.Point(754, 492);
+            this.iconButton6.Name = "iconButton6";
+            this.iconButton6.Size = new System.Drawing.Size(64, 68);
+            this.iconButton6.TabIndex = 8;
+            this.iconButton6.Text = "Agregar";
+            this.iconButton6.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton6.UseVisualStyleBackColor = true;
+            // 
+            // iconButton7
+            // 
+            this.iconButton7.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton7.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton7.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton7.IconSize = 50;
+            this.iconButton7.Location = new System.Drawing.Point(943, 120);
+            this.iconButton7.Name = "iconButton7";
+            this.iconButton7.Size = new System.Drawing.Size(64, 68);
+            this.iconButton7.TabIndex = 20;
+            this.iconButton7.Text = "Cancelar";
+            this.iconButton7.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton7.UseVisualStyleBackColor = true;
+            // 
+            // iconButton8
+            // 
+            this.iconButton8.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton8.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton8.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton8.IconSize = 50;
+            this.iconButton8.Location = new System.Drawing.Point(379, 25);
+            this.iconButton8.Name = "iconButton8";
+            this.iconButton8.Size = new System.Drawing.Size(64, 68);
+            this.iconButton8.TabIndex = 21;
+            this.iconButton8.Text = "Cancelar";
+            this.iconButton8.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton8.UseVisualStyleBackColor = true;
+            // 
+            // iconButton9
+            // 
+            this.iconButton9.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton9.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton9.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton9.IconSize = 50;
+            this.iconButton9.Location = new System.Drawing.Point(349, 25);
+            this.iconButton9.Name = "iconButton9";
+            this.iconButton9.Size = new System.Drawing.Size(64, 68);
+            this.iconButton9.TabIndex = 27;
+            this.iconButton9.Text = "Cancelar";
+            this.iconButton9.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton9.UseVisualStyleBackColor = true;
+            // 
+            // iconButton10
+            // 
+            this.iconButton10.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton10.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton10.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton10.IconSize = 50;
+            this.iconButton10.Location = new System.Drawing.Point(569, 24);
+            this.iconButton10.Name = "iconButton10";
+            this.iconButton10.Size = new System.Drawing.Size(64, 68);
+            this.iconButton10.TabIndex = 28;
+            this.iconButton10.Text = "Cancelar";
+            this.iconButton10.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton10.UseVisualStyleBackColor = true;
+            // 
+            // iconButton11
+            // 
+            this.iconButton11.IconChar = FontAwesome.Sharp.IconChar.Trash;
+            this.iconButton11.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton11.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton11.IconSize = 50;
+            this.iconButton11.Location = new System.Drawing.Point(836, 492);
+            this.iconButton11.Name = "iconButton11";
+            this.iconButton11.Size = new System.Drawing.Size(64, 68);
+            this.iconButton11.TabIndex = 9;
+            this.iconButton11.Text = "Elimiar";
+            this.iconButton11.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton11.UseVisualStyleBackColor = true;
+            // 
+            // iconButton12
+            // 
+            this.iconButton12.IconChar = FontAwesome.Sharp.IconChar.Search;
+            this.iconButton12.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton12.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton12.IconSize = 50;
+            this.iconButton12.Location = new System.Drawing.Point(807, 33);
+            this.iconButton12.Name = "iconButton12";
+            this.iconButton12.Size = new System.Drawing.Size(64, 68);
+            this.iconButton12.TabIndex = 4;
+            this.iconButton12.Text = "Buscar";
+            this.iconButton12.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton12.UseVisualStyleBackColor = true;
+            // 
+            // iconButton13
+            // 
+            this.iconButton13.IconChar = FontAwesome.Sharp.IconChar.Search;
+            this.iconButton13.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton13.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton13.IconSize = 50;
+            this.iconButton13.Location = new System.Drawing.Point(710, 3);
+            this.iconButton13.Name = "iconButton13";
+            this.iconButton13.Size = new System.Drawing.Size(64, 68);
+            this.iconButton13.TabIndex = 13;
+            this.iconButton13.Text = "Buscar";
+            this.iconButton13.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton13.UseVisualStyleBackColor = true;
+            // 
+            // iconButton14
+            // 
+            this.iconButton14.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton14.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton14.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton14.IconSize = 60;
+            this.iconButton14.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton14.Location = new System.Drawing.Point(403, 12);
+            this.iconButton14.Name = "iconButton14";
+            this.iconButton14.Size = new System.Drawing.Size(64, 68);
+            this.iconButton14.TabIndex = 19;
+            this.iconButton14.Text = "Agregar";
+            this.iconButton14.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton14.UseVisualStyleBackColor = true;
+            // 
+            // iconButton15
+            // 
+            this.iconButton15.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton15.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton15.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton15.IconSize = 60;
+            this.iconButton15.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton15.Location = new System.Drawing.Point(898, 15);
+            this.iconButton15.Name = "iconButton15";
+            this.iconButton15.Size = new System.Drawing.Size(64, 68);
+            this.iconButton15.TabIndex = 20;
+            this.iconButton15.Text = "Agregar";
+            this.iconButton15.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton15.UseVisualStyleBackColor = true;
+            // 
+            // iconButton16
+            // 
+            this.iconButton16.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton16.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton16.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton16.IconSize = 50;
+            this.iconButton16.Location = new System.Drawing.Point(898, 94);
+            this.iconButton16.Name = "iconButton16";
+            this.iconButton16.Size = new System.Drawing.Size(64, 68);
+            this.iconButton16.TabIndex = 22;
+            this.iconButton16.Text = "Cancelar";
+            this.iconButton16.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton16.UseVisualStyleBackColor = true;
+            // 
+            // iconButton17
+            // 
+            this.iconButton17.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton17.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton17.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton17.IconSize = 60;
+            this.iconButton17.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton17.Location = new System.Drawing.Point(246, 14);
+            this.iconButton17.Name = "iconButton17";
+            this.iconButton17.Size = new System.Drawing.Size(64, 68);
+            this.iconButton17.TabIndex = 20;
+            this.iconButton17.Text = "Agregar";
+            this.iconButton17.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton17.UseVisualStyleBackColor = true;
+            // 
+            // iconButton18
+            // 
+            this.iconButton18.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton18.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton18.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton18.IconSize = 60;
+            this.iconButton18.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton18.Location = new System.Drawing.Point(278, 18);
+            this.iconButton18.Name = "iconButton18";
+            this.iconButton18.Size = new System.Drawing.Size(64, 68);
+            this.iconButton18.TabIndex = 26;
+            this.iconButton18.Text = "Agregar";
+            this.iconButton18.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton18.UseVisualStyleBackColor = true;
+            // 
+            // iconButton19
+            // 
+            this.iconButton19.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton19.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton19.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton19.IconSize = 50;
+            this.iconButton19.Location = new System.Drawing.Point(316, 14);
+            this.iconButton19.Name = "iconButton19";
+            this.iconButton19.Size = new System.Drawing.Size(64, 68);
+            this.iconButton19.TabIndex = 23;
+            this.iconButton19.Text = "Cancelar";
+            this.iconButton19.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton19.UseVisualStyleBackColor = true;
+            // 
+            // iconButton20
+            // 
+            this.iconButton20.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton20.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton20.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton20.IconSize = 50;
+            this.iconButton20.Location = new System.Drawing.Point(348, 18);
+            this.iconButton20.Name = "iconButton20";
+            this.iconButton20.Size = new System.Drawing.Size(64, 68);
+            this.iconButton20.TabIndex = 27;
+            this.iconButton20.Text = "Cancelar";
+            this.iconButton20.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton20.UseVisualStyleBackColor = true;
+            // 
+            // iconButton21
+            // 
+            this.iconButton21.IconChar = FontAwesome.Sharp.IconChar.PlusCircle;
+            this.iconButton21.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton21.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton21.IconSize = 60;
+            this.iconButton21.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton21.Location = new System.Drawing.Point(489, 11);
+            this.iconButton21.Name = "iconButton21";
+            this.iconButton21.Size = new System.Drawing.Size(64, 68);
+            this.iconButton21.TabIndex = 27;
+            this.iconButton21.Text = "Agregar";
+            this.iconButton21.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton21.UseVisualStyleBackColor = true;
+            // 
+            // iconButton22
+            // 
+            this.iconButton22.IconChar = FontAwesome.Sharp.IconChar.XmarkCircle;
+            this.iconButton22.IconColor = System.Drawing.Color.DarkRed;
+            this.iconButton22.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton22.IconSize = 50;
+            this.iconButton22.Location = new System.Drawing.Point(559, 11);
+            this.iconButton22.Name = "iconButton22";
+            this.iconButton22.Size = new System.Drawing.Size(64, 68);
+            this.iconButton22.TabIndex = 28;
+            this.iconButton22.Text = "Cancelar";
+            this.iconButton22.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton22.UseVisualStyleBackColor = true;
+            // 
+            // iconButton23
+            // 
+            this.iconButton23.IconChar = FontAwesome.Sharp.IconChar.PenToSquare;
+            this.iconButton23.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton23.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton23.IconSize = 50;
+            this.iconButton23.Location = new System.Drawing.Point(731, 561);
+            this.iconButton23.Name = "iconButton23";
+            this.iconButton23.Size = new System.Drawing.Size(64, 68);
+            this.iconButton23.TabIndex = 14;
+            this.iconButton23.Text = "Editar";
+            this.iconButton23.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton23.UseVisualStyleBackColor = true;
+            // 
+            // iconButton24
+            // 
+            this.iconButton24.IconChar = FontAwesome.Sharp.IconChar.Trash;
+            this.iconButton24.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton24.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton24.IconSize = 50;
+            this.iconButton24.Location = new System.Drawing.Point(801, 561);
+            this.iconButton24.Name = "iconButton24";
+            this.iconButton24.Size = new System.Drawing.Size(64, 68);
+            this.iconButton24.TabIndex = 15;
+            this.iconButton24.Text = "Elimiar";
+            this.iconButton24.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton24.UseVisualStyleBackColor = true;
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(92, 105);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(698, 238);
+            this.dataGridView1.TabIndex = 10;
+            // 
+            // textBox13
+            // 
+            this.textBox13.Location = new System.Drawing.Point(189, 42);
+            this.textBox13.Name = "textBox13";
+            this.textBox13.Size = new System.Drawing.Size(216, 20);
+            this.textBox13.TabIndex = 9;
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(89, 45);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(94, 13);
+            this.label32.TabIndex = 11;
+            this.label32.Text = "Nombre Consulta :";
+            // 
+            // iconButton25
+            // 
+            this.iconButton25.IconChar = FontAwesome.Sharp.IconChar.Search;
+            this.iconButton25.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton25.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton25.IconSize = 50;
+            this.iconButton25.Location = new System.Drawing.Point(441, 17);
+            this.iconButton25.Name = "iconButton25";
+            this.iconButton25.Size = new System.Drawing.Size(64, 68);
+            this.iconButton25.TabIndex = 14;
+            this.iconButton25.Text = "Buscar";
+            this.iconButton25.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton25.UseVisualStyleBackColor = true;
+            // 
+            // iconButton26
+            // 
+            this.iconButton26.IconChar = FontAwesome.Sharp.IconChar.ArrowRotateForward;
+            this.iconButton26.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton26.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton26.IconSize = 50;
+            this.iconButton26.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton26.Location = new System.Drawing.Point(511, 17);
+            this.iconButton26.Name = "iconButton26";
+            this.iconButton26.Size = new System.Drawing.Size(64, 68);
+            this.iconButton26.TabIndex = 15;
+            this.iconButton26.Text = "Update";
+            this.iconButton26.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton26.UseVisualStyleBackColor = true;
+            // 
+            // iconButton27
+            // 
+            this.iconButton27.IconChar = FontAwesome.Sharp.IconChar.Trash;
+            this.iconButton27.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton27.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton27.IconSize = 50;
+            this.iconButton27.Location = new System.Drawing.Point(581, 17);
+            this.iconButton27.Name = "iconButton27";
+            this.iconButton27.Size = new System.Drawing.Size(64, 68);
+            this.iconButton27.TabIndex = 16;
+            this.iconButton27.Text = "Elimiar";
+            this.iconButton27.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton27.UseVisualStyleBackColor = true;
+            // 
+            // iconButton28
+            // 
+            this.iconButton28.IconChar = FontAwesome.Sharp.IconChar.FilePen;
+            this.iconButton28.IconColor = System.Drawing.SystemColors.MenuHighlight;
+            this.iconButton28.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton28.IconSize = 50;
+            this.iconButton28.Location = new System.Drawing.Point(651, 17);
+            this.iconButton28.Name = "iconButton28";
+            this.iconButton28.Size = new System.Drawing.Size(64, 68);
+            this.iconButton28.TabIndex = 17;
+            this.iconButton28.Text = "Consultas";
+            this.iconButton28.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton28.UseVisualStyleBackColor = true;
             // 
             // Busqueda_Smart
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1166, 852);
+            this.ClientSize = new System.Drawing.Size(1166, 749);
             this.Controls.Add(this.tbcBusqueda);
             this.Name = "Busqueda_Smart";
             this.Text = "Busqueda_Smart";
@@ -1327,6 +1531,9 @@ namespace Capa_Vista
             this.panel4.PerformLayout();
             this.Panel2.ResumeLayout(false);
             this.Panel2.PerformLayout();
+            this.tbpBE.ResumeLayout(false);
+            this.tbpBE.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1340,11 +1547,7 @@ namespace Capa_Vista
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button11;
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Panel panel8;
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.RadioButton radioButton1;
@@ -1354,8 +1557,6 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel7;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.ComboBox comboBox6;
         private System.Windows.Forms.ComboBox comboBox5;
@@ -1364,8 +1565,6 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.ComboBox comboBox4;
         private System.Windows.Forms.ComboBox comboBox3;
@@ -1373,11 +1572,8 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Panel Panel2;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.CheckBox checkBox1;
@@ -1387,13 +1583,11 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel9;
         private System.Windows.Forms.Panel panel10;
         private System.Windows.Forms.Panel panel11;
-        private System.Windows.Forms.Button button13;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.ComboBox comboBox9;
@@ -1401,10 +1595,7 @@ namespace Capa_Vista
         private System.Windows.Forms.Panel panel12;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
         private System.Windows.Forms.Panel panel13;
-        private System.Windows.Forms.Button button16;
         private System.Windows.Forms.Panel panel14;
         private System.Windows.Forms.RadioButton radioButton3;
         private System.Windows.Forms.RadioButton radioButton4;
@@ -1414,7 +1605,6 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Panel panel15;
         private System.Windows.Forms.Panel panel16;
-        private System.Windows.Forms.Button button18;
         private System.Windows.Forms.TextBox textBox9;
         private System.Windows.Forms.ComboBox comboBox12;
         private System.Windows.Forms.ComboBox comboBox13;
@@ -1423,7 +1613,6 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.Panel panel17;
-        private System.Windows.Forms.Button button20;
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.ComboBox comboBox14;
         private System.Windows.Forms.ComboBox comboBox15;
@@ -1431,7 +1620,6 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Panel panel18;
-        private System.Windows.Forms.Button button22;
         private System.Windows.Forms.Panel panel19;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.ComboBox comboBox16;
@@ -1443,10 +1631,36 @@ namespace Capa_Vista
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label30;
         private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.Button button24;
-        private System.Windows.Forms.Button button23;
-        private System.Windows.Forms.Button button21;
-        private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Button button17;
+        private FontAwesome.Sharp.IconButton iconButton1;
+        private FontAwesome.Sharp.IconButton iconButton4;
+        private FontAwesome.Sharp.IconButton iconButton3;
+        private FontAwesome.Sharp.IconButton iconButton2;
+        private FontAwesome.Sharp.IconButton iconButton11;
+        private FontAwesome.Sharp.IconButton iconButton6;
+        private FontAwesome.Sharp.IconButton iconButton10;
+        private FontAwesome.Sharp.IconButton iconButton5;
+        private FontAwesome.Sharp.IconButton iconButton9;
+        private FontAwesome.Sharp.IconButton iconButton8;
+        private FontAwesome.Sharp.IconButton iconButton7;
+        private FontAwesome.Sharp.IconButton iconButton12;
+        private FontAwesome.Sharp.IconButton iconButton24;
+        private FontAwesome.Sharp.IconButton iconButton23;
+        private FontAwesome.Sharp.IconButton iconButton13;
+        private FontAwesome.Sharp.IconButton iconButton22;
+        private FontAwesome.Sharp.IconButton iconButton21;
+        private FontAwesome.Sharp.IconButton iconButton20;
+        private FontAwesome.Sharp.IconButton iconButton18;
+        private FontAwesome.Sharp.IconButton iconButton19;
+        private FontAwesome.Sharp.IconButton iconButton17;
+        private FontAwesome.Sharp.IconButton iconButton16;
+        private FontAwesome.Sharp.IconButton iconButton15;
+        private FontAwesome.Sharp.IconButton iconButton14;
+        private FontAwesome.Sharp.IconButton iconButton28;
+        private FontAwesome.Sharp.IconButton iconButton27;
+        private FontAwesome.Sharp.IconButton iconButton26;
+        private FontAwesome.Sharp.IconButton iconButton25;
+        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.TextBox textBox13;
     }
 }

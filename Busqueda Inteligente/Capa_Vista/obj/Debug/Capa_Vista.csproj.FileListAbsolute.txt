@@ -21,3 +21,16 @@ C:\Users\linri\Desktop\Busqueda Inteligentes\BusquedaInteligente\Busqueda Inteli
 C:\Users\linri\Desktop\Busqueda Inteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
 C:\Users\linri\Desktop\Busqueda Inteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.dll
 C:\Users\linri\Desktop\Busqueda Inteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Vista.dll
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.Busqueda_Smart.resources
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.Properties.Resources.resources
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.dll
+C:\Users\Diana\Desktop\BusquedaInteligentes\BusquedaInteligente\Busqueda Inteligente\Capa_Vista\obj\Debug\Capa_Vista.pdb
