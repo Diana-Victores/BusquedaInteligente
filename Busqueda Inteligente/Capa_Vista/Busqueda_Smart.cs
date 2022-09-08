@@ -21,5 +21,35 @@ namespace Capa_Vista
         {
 
         }
+
+        private void iconButton12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iconButton28_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iconButton27_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iconButton25_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iconButton26_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iconButton33_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
